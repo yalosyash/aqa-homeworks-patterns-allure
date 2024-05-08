@@ -1,5 +1,10 @@
 [![Java CI with Gradle](https://github.com/yalosyash/aqa-homeworks-patterns-allure/actions/workflows/gradle.yml/badge.svg)](https://github.com/yalosyash/aqa-homeworks-patterns-allure/actions/workflows/gradle.yml)
 
+# Отчет Allure
+
+![2024-05-08_22-09-38](https://github.com/yalosyash/aqa-homeworks-patterns-allure/assets/127222172/6a58f6e9-9d16-49fb-94be-55aa0d85111b)
+![2024-05-08_22-09-22](https://github.com/yalosyash/aqa-homeworks-patterns-allure/assets/127222172/9012cd8a-d489-45e9-ac4e-36a0fd7edc9d)
+
 # Домашнее задание к занятию «4.1. Репортинг»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на
